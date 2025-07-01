@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () {
-  printf("Hello git!\nEl texto se ha actualizado");
+  printf("Hello github!");
   return 0;
 }
 
